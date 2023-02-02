@@ -34,7 +34,7 @@ sudo apt-get install curl
 sudo apt update
 ```
 
-## 🟢 Docker Kurulumu
+## 🟢 1. Adım Docker Kurulumu
 
 ```shell
 sudo apt install docker.io
