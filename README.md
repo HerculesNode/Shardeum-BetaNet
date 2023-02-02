@@ -18,11 +18,24 @@
  ![image](https://user-images.githubusercontent.com/101635385/216453273-47c43ce8-93a2-4091-ab2d-f807ef62ac5f.png)
 
  komut : /faucet cüzdan adresiniz
+ 
+ 
+ 
+  ## 🟢 8080 port
+
+Bu komut ile 8080 portta çalışan başka bir node varmı diye önce kontrol edin. 
+
+```shell
+ lsof -i -P -n | grep LISTEN
+```
+ 
 
  ## 🟢 Sistemi Gereksinimleri
 
-* Ekip tarafından önerilen  <br>  16 GB RAM <br> 60 GB Disk Alanı
- 
+* Ekip tarafından önerilen  <br>
+16 GB ram, 4+ GB sanal bellek önerilir<br>
+60 GB ssd depolama alanı
+
 
 
 ## 🟢 Sistemi Güncelleme
