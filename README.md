@@ -133,7 +133,7 @@ Ağ ekleme : https://chainlist.org/?search=shardeum
 
 ## 🟢 6. Stake Etme
 
-hesabınızda 10 SHM token olması gerekiyor. Token temin ettikten sonra aynı sayfa üzerinden cüzdanınızı bağladıktan sonra Add stake butonuna basın ve 10 SHM stake edin
+hesabınızda 10 SHM token olması gerekiyor. Token temin ettikten sonra aynı sayfa üzerinden cüzdanınızı bağlayın Add stake butonuna basın ve 10 SHM stake edin
 
 ![image](https://user-images.githubusercontent.com/101635385/216450969-95907158-9dd5-4021-947e-770c74ac847c.png)
 
