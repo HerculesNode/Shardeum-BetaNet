@@ -8,8 +8,16 @@
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/Hercules4413)
 
- 
 
+ ## 🟢 Faucet
+ 
+ * [Discord](https://discord.gg/shardeum)
+
+ Faucet SHM token için discord adresine girin oradan Faucet 1-6 ve Faucet-2-1 kanalına girin ve resimdeki gibi token alın
+ 
+ ![image](https://user-images.githubusercontent.com/101635385/216453273-47c43ce8-93a2-4091-ab2d-f807ef62ac5f.png)
+
+ komut : /faucet cüzdan adresiniz
 
  ## 🟢 Sistemi Gereksinimleri
 
