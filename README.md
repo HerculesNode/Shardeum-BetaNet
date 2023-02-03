@@ -128,7 +128,7 @@ Block Explorer URL (optional)	https://explorer-sphinx.shardeum.org/ <br><br>
 
 
 
-[Hercules Twitter](https://faucet-sphinx.shardeum.org/?_ga=2.223730200.2098418439.1675365683-1010477743.1666250200)
+[FAUCET](https://faucet-sphinx.shardeum.org/?_ga=2.223730200.2098418439.1675365683-1010477743.1666250200)
 
 Faucetten tweet atın 15 SHM gelecek hesabınıza 
 
@@ -136,6 +136,10 @@ Faucetten tweet atın 15 SHM gelecek hesabınıza
 hesabınızda 10 SHM token olması gerekiyor. 
 
 ![image](https://user-images.githubusercontent.com/101635385/216525966-93d207b1-910c-4dbe-a787-65a85439c99a.png)
+
+
+
+Cüzdanınıza 15 SHM geldikten sonra ADD STAKE diyerek stake işlemini bitirebilirsiniz.  <br>
 
 
 ![image](https://user-images.githubusercontent.com/101635385/216526726-4f0ea15a-1002-4956-8cd0-0d730bb98a17.png)
