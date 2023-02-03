@@ -31,7 +31,7 @@ Bu komut ile 8080 portta çalışan başka bir node varmı diye önce kontrol ed
 Screen oluşturalım Shardeum yazan yere istediğinizi yazabilirsiniz.
 
 ```shell
-screen -S Shardeum
+screen -S shardeum
 ```
 
 
