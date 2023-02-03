@@ -68,11 +68,15 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
 
 Aşağıdaki sorulara cevap verin 
 
-* Do you want to run the web based Dashboard? (y/n): y yazıp Enter 
-* Set the password to access the Dashboard ŞİFRE GİRİN  Enter
-* Enter the port (1025-65536) to access the web based Dashboard (default 8080): 8080 yazın enter
-* What base directory should the node use (defaults to ~/.shardeum): bir şey yazmayın enter basın
-* Select a network to connect to:  bu soru çıkarsa 2 yazıp enter
+* Do you want to run the web based Dashboard? (y/n): (y yazın)
+
+* Set the password to access the Dashboard ( ŞİFRE GİRİN ) 
+
+* Enter the port (1025-65536) to access the web based Dashboard (default 8080):  ( 8080 yazın yada başka port Tavsiye 8080 kullanmanız )
+
+* What base directory should the node use (defaults to ~/.shardeum): bir şey yazmayın enter basıp geçin
+
+* Select a network to connect to:  bu soru çıkarsa, genelde çıkmıyor 2 yazıp enter
 
 
 ## 🟢 3. Adım Doğrulayıcı
