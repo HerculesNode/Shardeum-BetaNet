@@ -112,7 +112,7 @@ https://NODEIPADRESINIZ:8080   ( chrome yada hangi tarayıcıyı kullanıyorsan�
 
 ## 🟢 5. Cüzdan bağlama
 
-Sphinx 1.X eğer ağ yoksa chainlist. 
+Kullanılacak ağ : Sphinx 1.X 
 
 Aşağıdaki ağı Matemask cüzdanınıza ekleyiniz.
 
