@@ -150,7 +150,7 @@ Block Explorer URL (optional)	https://explorer-sphinx.shardeum.org/ <br><br>
 
 ## 🟢 7. Durum kontrol etme
 
-#### Nodeniz çalışıyor ise ve Stake işlemini yaptıysanız aşağıdaki gibi bir ekran göreceksiniz. 
+#### Stake işlemini yaptıysanız aşağıdaki gibi bir ekran göreceksiniz. Active yazısı görünmüyorsa sayfayı yenileyin.
 
 
 ![image](https://user-images.githubusercontent.com/101635385/216527473-e8dc8f51-9b7d-4594-82b8-970ef71538c6.png)
