@@ -107,7 +107,7 @@ Artık budan sonraki işlemler Explorer üzerinden
 
 ## 🟢 4. Explorer işlemleri.
 
-https://NODEIPADRESINIZ:8080   ( chrome yada hangi tarayıcıyı kullanıyorsanız node ip adresiniz ve port girerek aşağıdaki resimdeki gibi bir ekran gelecektir. 
+https://NODEIPADRESINIZ:8080   ( chrome yada hangi tarayıcıyı kullanıyorsanız node ip adresiniz ve port girdiğinizde aşağıdaki resimdeki gibi bir ekran gelecektir. 
 
 ![image](https://user-images.githubusercontent.com/101635385/216449601-78112f06-5d93-41a2-a737-1826ee770529.png)
 
