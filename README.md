@@ -79,6 +79,11 @@ Aşağıdaki sorulara cevap verin
 * Select a network to connect to:  bu soru çıkarsa, genelde çıkmıyor 2 yazıp enter
 
 
+Kurulum uzun sürecek aşağıdaki resimi görürseniz kurulum bitti demektir. 
+
+![image](https://user-images.githubusercontent.com/101635385/216449058-387d47b5-d6ef-423d-8501-4490f11c1c5f.png)
+
+
 ## 🟢 3. Adım Doğrulayıcı
 
 ```shell
@@ -93,9 +98,7 @@ cd .shardeum
 operator-cli gui start
 ```
 
-Kurulum uzun sürecek aşağıdaki resimi görürseniz kurulum bitti demektir. Artık budan sonraki işlemler Explorer üzerinden 
-
-![image](https://user-images.githubusercontent.com/101635385/216449058-387d47b5-d6ef-423d-8501-4490f11c1c5f.png)
+Artık budan sonraki işlemler Explorer üzerinden 
 
 
 ## 🟢 4. Explorer işlemleri.
