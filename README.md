@@ -143,6 +143,8 @@ Block Explorer URL :	https://explorer-sphinx.shardeum.org/ <br><br>
 
  * [Discord FAUCET](https://discord.gg/shardeum)
 
+![image](https://user-images.githubusercontent.com/101635385/216570649-59485b8a-27ac-4ef7-8308-0187d7dd45bb.png)
+
 ![image](https://user-images.githubusercontent.com/101635385/216561514-37ab1ead-9801-421e-939b-459d93f9807b.png)
 
 
