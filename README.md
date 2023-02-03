@@ -146,6 +146,20 @@ Cüzdanınıza 15 SHM geldikten sonra ADD STAKE diyerek stake işlemini bitirebi
 
 
 
+
+## 🟢 7. Durum kontrol etme
+
+Nodeniz çalışıyor ise ve Stake işlemini yaptıysanız aşağıdaki gibi bir ekran göreceksiniz. 
+
+
+![image](https://user-images.githubusercontent.com/101635385/216527473-e8dc8f51-9b7d-4594-82b8-970ef71538c6.png)
+
+
+
+
+
+
+
 Forklamayı ve beğenmeyi unutmayınız :)
 
 
