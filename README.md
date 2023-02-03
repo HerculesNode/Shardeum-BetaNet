@@ -142,7 +142,8 @@ Block Explorer URL (optional)	https://explorer-sphinx.shardeum.org/ <br><br>
 #### Cüzdanınıza 15 SHM geldikten sonra ADD STAKE diyerek stake işlemini bitirebilirsiniz.  <br>
 
 
-![image](https://user-images.githubusercontent.com/101635385/216526726-4f0ea15a-1002-4956-8cd0-0d730bb98a17.png)
+![image](https://user-images.githubusercontent.com/101635385/216532101-ca0e4aca-4422-42be-8241-51b723f92dc0.png)
+
 
 
 
