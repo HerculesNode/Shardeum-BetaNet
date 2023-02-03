@@ -79,7 +79,7 @@ Aşağıdaki sorulara cevap verin
 * Select a network to connect to:  bu soru çıkarsa, genelde çıkmıyor 2 yazıp enter
 
 
-#### Gerekli kurulumlar başlayacak ve sonunda aşağıdaki redimdeki gibi bir çıktı görürseniz kurulum bitti demektir. 
+#### Gerekli kurulumlar başlayacak ve sonunda aşağıdaki resimdeki gibi bir çıktı görürseniz kurulum bitti demektir. 
 
 ![image](https://user-images.githubusercontent.com/101635385/216449058-387d47b5-d6ef-423d-8501-4490f11c1c5f.png)
 
