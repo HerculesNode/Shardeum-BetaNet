@@ -100,13 +100,16 @@ https://NODEIPADRESINIZ:8080   ( chrome yada hangi tarayıcıyı kullanıyorsan�
 
 ![image](https://user-images.githubusercontent.com/101635385/216449601-78112f06-5d93-41a2-a737-1826ee770529.png)
 
+<br>
 
-* ilk olarak Maintenance alanına tıklıyoruz. Burada aşağıdaki resimde bulunan beyaz butona basın ve nodeyi çalıştırın. Biraz bekleyin ve sayfayı yenileyin 1. Kutucuktaki gibi bir uyarı görürseniz nodeniz çalışıyor demektir. 
+
+#### ilk olarak Maintenance alanına tıklıyoruz. Burada aşağıdaki resimde bulunan beyaz butona basın ve nodeyi çalıştırın. Biraz bekleyin ve sayfayı yenileyin 1. Kutucuktaki gibi bir uyarı görürseniz nodeniz çalışıyor demektir.  <br>
 
 
 ![image](https://user-images.githubusercontent.com/101635385/216450237-e595b7cd-97bc-4c13-843f-ec39586653a8.png)
 
-![image](https://user-images.githubusercontent.com/101635385/216450286-708edb1c-7417-4e47-9350-26bbb3e6958b.png)
+![image](https://user-images.githubusercontent.com/101635385/216528434-df065848-606d-4bee-a1fd-cc07f9e80b42.png)
+
 
 
 
@@ -130,16 +133,13 @@ Block Explorer URL (optional)	https://explorer-sphinx.shardeum.org/ <br><br>
 
 [FAUCET](https://faucet-sphinx.shardeum.org/?_ga=2.223730200.2098418439.1675365683-1010477743.1666250200)
 
-Faucetten tweet atın 15 SHM gelecek hesabınıza 
-
-
-hesabınızda 10 SHM token olması gerekiyor. 
+#### Faucetten tweet atın 15 SHM gelecek hesabınıza 
 
 ![image](https://user-images.githubusercontent.com/101635385/216525966-93d207b1-910c-4dbe-a787-65a85439c99a.png)
 
 
 
-Cüzdanınıza 15 SHM geldikten sonra ADD STAKE diyerek stake işlemini bitirebilirsiniz.  <br>
+#### Cüzdanınıza 15 SHM geldikten sonra ADD STAKE diyerek stake işlemini bitirebilirsiniz.  <br>
 
 
 ![image](https://user-images.githubusercontent.com/101635385/216526726-4f0ea15a-1002-4956-8cd0-0d730bb98a17.png)
@@ -149,7 +149,7 @@ Cüzdanınıza 15 SHM geldikten sonra ADD STAKE diyerek stake işlemini bitirebi
 
 ## 🟢 7. Durum kontrol etme
 
-Nodeniz çalışıyor ise ve Stake işlemini yaptıysanız aşağıdaki gibi bir ekran göreceksiniz. 
+#### Nodeniz çalışıyor ise ve Stake işlemini yaptıysanız aşağıdaki gibi bir ekran göreceksiniz. 
 
 
 ![image](https://user-images.githubusercontent.com/101635385/216527473-e8dc8f51-9b7d-4594-82b8-970ef71538c6.png)
