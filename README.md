@@ -9,18 +9,6 @@
  * [Hercules Twitter](https://twitter.com/Hercules4413)
 
 
- ## 🟢 Faucet
- 
- * [Discord](https://discord.gg/shardeum)
-
- Faucet SHM token için discord adresine girin oradan Faucet 1-6 ve Faucet-2-1 kanalına girin ve resimdeki gibi token alın
- 
- ![image](https://user-images.githubusercontent.com/101635385/216453273-47c43ce8-93a2-4091-ab2d-f807ef62ac5f.png)
-
- komut : /faucet cüzdan adresiniz
- 
- 
- 
   ## 🟢 8080 port
 
 Bu komut ile 8080 portta çalışan başka bir node varmı diye önce kontrol edin. 
@@ -124,21 +112,33 @@ https://NODEIPADRESINIZ:8080   ( chrome yada hangi tarayıcıyı kullanıyorsan�
 
 ## 🟢 5. Cüzdan bağlama
 
-* Daha sonra Matemask cüzdanınızı bağlayın Ağ : Liberty 2 X eğer ağ yoksa chainlist. ekleyin 
+Sphinx 1.X eğer ağ yoksa chainlist. 
 
-Ağ ekleme : https://chainlist.org/?search=shardeum
+Aşağıdaki ağı Matemask cüzdanınıza ekleyiniz.
 
-![image](https://user-images.githubusercontent.com/101635385/216450617-274ae00c-74c1-44c2-8369-59d2bc8fb0c9.png)
+Network Name	Shardeum Sphinx 1.X <br>
+New RPC URL	https://sphinx.shardeum.org/ <br>
+Chain ID	8082 <br>
+Currency symbol (optional)	SHM <br>
+Block Explorer URL (optional)	https://explorer-sphinx.shardeum.org/ <br><br>
+
 
 
 ## 🟢 6. Stake Etme
 
-hesabınızda 10 SHM token olması gerekiyor. Token temin ettikten sonra aynı sayfa üzerinden cüzdanınızı bağlayın Add stake butonuna basın ve 10 SHM stake edin
 
-![image](https://user-images.githubusercontent.com/101635385/216450969-95907158-9dd5-4021-947e-770c74ac847c.png)
 
-![image](https://user-images.githubusercontent.com/101635385/216451080-6cf55c20-9561-4bd3-9f80-4be49dbc7d3f.png)
+[Hercules Twitter](https://faucet-sphinx.shardeum.org/?_ga=2.223730200.2098418439.1675365683-1010477743.1666250200)
 
+Faucetten tweet atın 15 SHM gelecek hesabınıza 
+
+
+hesabınızda 10 SHM token olması gerekiyor. 
+
+![image](https://user-images.githubusercontent.com/101635385/216525966-93d207b1-910c-4dbe-a787-65a85439c99a.png)
+
+
+![image](https://user-images.githubusercontent.com/101635385/216526726-4f0ea15a-1002-4956-8cd0-0d730bb98a17.png)
 
 
 
