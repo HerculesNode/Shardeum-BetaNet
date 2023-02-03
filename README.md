@@ -72,7 +72,7 @@ Aşağıdaki sorulara cevap verin
 
 * Set the password to access the Dashboard ( ŞİFRE GİRİN ) Bu Explorer üzerinden panele bağlanma şifreniz olacak unutmayın.
 
-* Enter the port (1025-65536) to access the web based Dashboard (default 8080):  ( 8080 yazın yada başka port Tavsiye 8080 kullanmanız )
+* Enter the port (1025-65536) to access the web based Dashboard (default 8080):  ( Direk Enter tuşuna basın yada başka port yazın Tavsiye 8080 kullanmanız )
 
 * What base directory should the node use (defaults to ~/.shardeum): bir şey yazmayın enter basıp geçin
 
