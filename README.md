@@ -119,11 +119,16 @@ Kullanılacak ağ : Sphinx 1.X
 
 Aşağıdaki ağı Matemask cüzdanınıza ekleyiniz.
 
-Network Name	Shardeum Sphinx 1.X <br>
-New RPC URL	https://sphinx.shardeum.org/ <br>
-Chain ID	8082 <br>
-Currency symbol (optional)	SHM <br>
-Block Explorer URL (optional)	https://explorer-sphinx.shardeum.org/ <br><br>
+Ağ : Shardeum Sphinx 1.X <br>
+New RPC URL : 	https://sphinx.shardeum.org/ <br>
+Chain ID : 	8082 <br>
+symbol : SHM <br>
+Block Explorer URL :	https://explorer-sphinx.shardeum.org/ <br><br>
+
+
+![image](https://user-images.githubusercontent.com/101635385/216532850-1c35b90f-d245-4be9-adf8-6c526d1c5ee3.png)
+
+
 
 
 
