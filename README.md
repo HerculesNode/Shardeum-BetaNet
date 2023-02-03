@@ -87,6 +87,10 @@ Kurulum uzun sürecek aşağıdaki resimi görürseniz kurulum bitti demektir.
 ## 🟢 3. Adım Doğrulayıcı
 
 ```shell
+cd
+```
+
+```shell
 cd .shardeum
 ```
 
