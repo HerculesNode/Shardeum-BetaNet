@@ -59,8 +59,9 @@ sudo chmod +x /usr/local/bin/docker-compose
 ![image](https://user-images.githubusercontent.com/101635385/219121810-9d6889b2-6893-4c9d-a0a4-433b2fff9dce.png)
 
 
+<br><br>
 
-#### Daha önceki kurulumu kaldırıyoruz.
+## 🟢  Daha önceki kurulumu kaldırıyoruz.
 
 ```shell
 cd ~/.shardeum
