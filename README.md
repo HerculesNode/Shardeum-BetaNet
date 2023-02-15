@@ -7,15 +7,7 @@
 
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/Hercules4413)
-
-
-  ## 🟢 8080 port
-
-Bu komut ile 8080 portta çalışan başka bir node varmı diye önce kontrol edin. 
-
-```shell
- lsof -i -P -n | grep LISTEN
-```
+ 
  
 
  ## 🟢 Sistemi Gereksinimleri
@@ -216,7 +208,13 @@ Block Explorer URL :	https://explorer-sphinx.shardeum.org/ <br><br>
 
 
 
+ ## 🟢 8080 port
 
+Bu komut ile 8080 portta çalışan başka bir node varmı diye önce kontrol edin. 
+
+```shell
+ lsof -i -P -n | grep LISTEN
+```
 
 
 
