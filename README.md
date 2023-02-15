@@ -214,6 +214,18 @@ Block Explorer URL :	https://explorer-sphinx.shardeum.org/ <br><br>
 ![image](https://user-images.githubusercontent.com/101635385/216527473-e8dc8f51-9b7d-4594-82b8-970ef71538c6.png)
 
 
+## 🟢 Nominate key sorunu çözümü
+
+![image](https://user-images.githubusercontent.com/101635385/219161856-c2ad942b-f923-4d1d-a5f7-d8f2f7966e47.png)
+
+
+```shell
+curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
+```
+
+
+
+
 
  ## 🟢 8080 port
 
