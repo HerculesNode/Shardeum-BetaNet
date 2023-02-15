@@ -54,7 +54,10 @@ sudo chmod +x /usr/local/bin/docker-compose
 ## 🟢 2. Adım Kurulum
 
 
-#### Matemask cüzdanımızı sıfırlıyoruz.  Ayarlar / Gelişmiş / Hesabı sıfırla
+İlk defa kurulum yapacak olanlar Cüzdan sıfırlama ve eski kurulumu kaldırma adımını yapmasına gerek yoktur. <br> 
+
+
+#### Matemask cüzdanımızı sıfırlıyoruz.  Ayarlar / Gelişmiş / Hesabı sıfırla  <br><br> 
 
 ![image](https://user-images.githubusercontent.com/101635385/219121810-9d6889b2-6893-4c9d-a0a4-433b2fff9dce.png)
 
@@ -94,22 +97,22 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
 
 Aşağıdaki sorulara cevap verin 
 
-* By running this installer, you agree to allow the Shardeum team to collect this data. (y/n)?: y
+* By running this installer, you agree to allow the Shardeum team to collect this data. (y/n)?: y <br> 
+ 
+* Do you want to run the web based Dashboard? (y/n): (y yazın) <br> 
 
-* Do you want to run the web based Dashboard? (y/n): (y yazın)
+* Set the password to access the Dashboard ( ŞİFRE GİRİN ) Bu Explorer üzerinden panele bağlanma şifreniz olacak unutmayın. <br> 
 
-* Set the password to access the Dashboard ( ŞİFRE GİRİN ) Bu Explorer üzerinden panele bağlanma şifreniz olacak unutmayın.
+* Enter the port (1025-65536) to access the web based Dashboard (default 8080):  ( Direk Enter tuşuna basın yada başka port yazın Tavsiye 8080 kullanmanız ) <br> 
 
-* Enter the port (1025-65536) to access the web based Dashboard (default 8080):  ( Direk Enter tuşuna basın yada başka port yazın Tavsiye 8080 kullanmanız )
+* This allows p2p communication between nodes. Enter the first port (1025-65536) for p2p communication (default 9001): Enter basın <br> 
 
-* This allows p2p communication between nodes. Enter the first port (1025-65536) for p2p communication (default 9001): Enter basın
+* Enter the second port (1025-65536) for p2p communication (default 10001): Enter <br> 
 
-* Enter the second port (1025-65536) for p2p communication (default 10001): Enter
-
-* What base directory should the node use (defaults to ~/.shardeum): bir şey yazmayın enter basıp geçin
+* What base directory should the node use (defaults to ~/.shardeum): bir şey yazmayın enter basıp geçin <br> 
 
 
-#### Gerekli kurulumlar başlayacak ve sonunda aşağıdaki resimdeki gibi bir çıktı görürseniz kurulum bitti demektir. 
+#### Gerekli kurulumlar başlayacak ve sonunda aşağıdaki resimdeki gibi bir çıktı görürseniz kurulum bitti demektir.  <br> 
 
 ![image](https://user-images.githubusercontent.com/101635385/216449058-387d47b5-d6ef-423d-8501-4490f11c1c5f.png)
 
