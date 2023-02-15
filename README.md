@@ -179,7 +179,7 @@ Block Explorer URL :	https://explorer-sphinx.shardeum.org/ <br><br>
 ## 🟢 6. Faucet ve Stake Etme 
 
 
-1- Discord Sunucusuna girin ve #faucet-1-0 kanalından SHM token alabilirsiniz. 
+1- Discord Sunucusuna girin ve #faucet-1-1 kanalından SHM token alabilirsiniz. 
 
  * [Discord FAUCET](https://discord.gg/shardeum)
 
