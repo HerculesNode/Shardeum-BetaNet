@@ -237,6 +237,68 @@ Bu komut ile 8080 portta çalışan başka bir node varmı diye önce kontrol ed
 
 
 
+ ## 🟢 ip 0.0.0.0 hatası alırsanız çözümü
+
+Bu komut ile 8080 portta çalışan başka bir node varmı diye önce kontrol edin. 
+
+```shell
+cd ~/.shardeum
+```
+
+```shell
+./shell.sh
+```
+
+Bu adresten ip adresinizi öğrenin.
+
+```shell
+curl https://ipinfo.io/ip
+```
+
+Aşağıdaki komuta ip adresinizi yazıp nodunuzu başlatın.
+
+```shell
+export APP_IP="IPADRESINIZ"
+```
+
+
+
+ ## 🟢 Güncelleme 1.1.1 - 22.02.2023 
+
+1- Nodu durdurun - STOP  <br>
+2- Unstake yapın 
+
+3-
+
+```shell
+cd ~/.shardeum
+```
+
+```shell
+./shell.sh
+```
+
+```shell
+exit
+```
+
+```shell
+cd
+```
+
+```shell
+curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
+```
+
+4- Nodunuzu tekrar başlatın <br>
+5 Tekrar 10 SHM stake yapın.
+
+
+
+
+
+
+
 Forklamayı ve beğenmeyi unutmayınız :)
 
 
