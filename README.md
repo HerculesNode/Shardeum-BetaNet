@@ -255,12 +255,20 @@ Bu adresten ip adresinizi öğrenin.
 curl https://ipinfo.io/ip
 ```
 
-Aşağıdaki komuta ip adresinizi yazıp nodunuzu başlatın.
+Aşağıdaki komuta ip adresinizi yazın.
 
 ```shell
-export APP_IP="IPADRESINIZ"
+operator-cli set external_ip IPADRESINIZ
 ```
-
+Aşağıdaki komuta nodu kurarken yazdığınız external port bilgibizi yazın. ( default 9001)
+```shell
+operator-cli set external_port PORTUNUZ
+```
+Gui'yi başlatın
+```shell
+operator-cli gui start
+```
+Ardından (https://NODEIPADRESINIZ:8080 ( chrome yada hangi tarayıcıyı kullanıyorsanız node ip adresiniz ve port girdiğinizde) sayfaya gidip Maintenance kısmından node unuzu Start edin.
 
 
  ## 🟢 Güncelleme 1.1.1 - 22.02.2023 
