@@ -303,6 +303,38 @@ curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh 
 
 
 
+ ## 🟢 Shardeum Güncelleme 1.1.2 - 07.03.2023
+
+1- Panelde Nodeyi durdurun STOP NODE  <br>
+2- Unstake yapın - Yapamıyorsanız yeni bir cüzdan oluşturun ve 10 SHM faucetten alın. 
+
+3-
+
+```shell
+cd ~/.shardeum
+```
+
+```shell
+./shell.sh
+```
+
+```shell
+exit
+```
+
+```shell
+cd
+```
+
+```shell
+curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
+```
+
+4- Nodunuzu tekrar başlatın <br>
+5 Tekrar 10 SHM stake yapın.
+
+
+
 
 
 
