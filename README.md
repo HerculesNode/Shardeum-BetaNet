@@ -352,6 +352,18 @@ Artık budan sonraki işlemler Explorer üzerinden  <br>
 
 
 
+## 🟢 Otomatik başlatma ( Takip ekranı )
+
+Aşağıdaki kodu bir screen açarak shardeum nodenizi takip edebilirsiniz. Stop konumuna düştüğünde otomatik olarak başlatır. Devamlı Nodem stopmu oldu derdi ortadan kalkar. Shardeum monitor Msahin ile beraber geliştirilmiştir. 
+
+
+```shell
+screen -r monitor
+```
+
+```shell
+wget -q -O node_control.sh https://raw.githubusercontent.com/mesahin001/shardeum/main/node_control.sh && chmod +x node_control.sh && sudo /bin/bash node_control.sh
+```
 
 
 
