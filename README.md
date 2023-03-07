@@ -358,7 +358,7 @@ Aşağıdaki kodu bir screen açarak shardeum nodenizi takip edebilirsiniz. Stop
 
 
 ```shell
-screen -r monitor
+screen -S monitor
 ```
 
 ```shell
