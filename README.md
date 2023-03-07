@@ -330,8 +330,28 @@ cd
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
 
-4- Nodunuzu tekrar başlatın <br>
-5 Tekrar 10 SHM stake yapın.
+
+4- Panel şifrenizi girin.
+5- Portlara onay verin
+
+<br>
+
+```shell
+cd .shardeum
+```
+
+```shell
+./shell.sh
+```
+
+```shell
+operator-cli gui start
+```
+
+Artık budan sonraki işlemler Explorer üzerinden
+
+6- Nodunuzu tekrar başlatın <br>
+7- Tekrar 10 SHM stake yapın.
 
 
 
