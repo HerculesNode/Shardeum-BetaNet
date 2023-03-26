@@ -64,30 +64,9 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 <br><br>
 
-## 🟢  Daha önceki kurulumu kaldırıyoruz.
-
-```shell
-cd ~/.shardeum
-```
-
-```shell
-./cleanup.sh
-```
-
-```shell
-cd ~/
-```
-
-```shell
-rm -rf .shardeum
-```
-
-```shell
-rm installer.sh
-```
 
 
-## 🟢 Yeni Kuruluma başlıyoruz.
+## 🟢 1.1.5 versiyon Yeni Kuruluma başlıyoruz.
 
 
 ```shell
