@@ -51,7 +51,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 
 
-## 🟢 2. Adım Kurulum
+## 🟢 Matemask Cüzdan sıfırlama
 
 
 İlk defa kurulum yapacak olanlar Cüzdan sıfırlama ve eski kurulumu kaldırma adımını yapmasına gerek yoktur. <br> 
@@ -66,7 +66,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 
 
-## 🟢 1.1.5 versiyon Yeni Kuruluma başlıyoruz.
+## 🟢 1.1.5 versiyon Kurulumuna başlıyoruz.
 
 
 ```shell
