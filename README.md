@@ -54,8 +54,6 @@ sudo chmod +x /usr/local/bin/docker-compose
 ## 🟢 Matemask Cüzdan sıfırlama
 
 
-İlk defa kurulum yapacak olanlar Cüzdan sıfırlama ve eski kurulumu kaldırma adımını yapmasına gerek yoktur. <br> 
-
 
 #### Matemask cüzdanımızı sıfırlıyoruz.  Ayarlar / Gelişmiş / Hesabı sıfırla  <br><br> 
 
