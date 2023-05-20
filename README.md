@@ -64,7 +64,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 
 
-## 🟢 1.1.6 versiyon Kurulumuna başlıyoruz.
+## 🟢 1.3.0 versiyon Kurulumuna başlıyoruz.
 
 
 ```shell
