@@ -156,11 +156,11 @@ Block Explorer URL :	https://explorer-sphinx.shardeum.org/ <br><br>
 ## 🟢 6. Faucet ve Stake Etme 
 
 
-1- Discord Sunucusuna girin ve #faucet-1-1 kanalından SHM token alabilirsiniz. 
+1- Discord Sunucusuna girin ve #sphinx-faucet-1-3 kanalından SHM token alabilirsiniz. 
 
  * [Discord FAUCET](https://discord.gg/shardeum)
 
-![image](https://user-images.githubusercontent.com/101635385/219289164-5ce047bb-7a30-41d3-84a3-a40eaa2b5934.png)
+![image](https://github.com/herculessx/Shardeum-BetaNet/assets/101635385/0c6839ab-f58e-4330-8c36-dac583bab6af)
 
 ![image](https://user-images.githubusercontent.com/101635385/216561514-37ab1ead-9801-421e-939b-459d93f9807b.png)
 
