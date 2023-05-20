@@ -1,4 +1,4 @@
-# Shardeum Betanet 1.1.7 Güncel Kurulum Rehberi - Hercules
+# Shardeum Betanet 1.3.0 Güncel Kurulum Rehberi - Hercules
 ![image](https://user-images.githubusercontent.com/101635385/216447120-a1add722-5d7d-4403-b2a9-85ef054ba631.png)
 
 
